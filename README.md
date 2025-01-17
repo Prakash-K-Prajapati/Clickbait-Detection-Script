@@ -1,3 +1,4 @@
+![Rplot](https://github.com/user-attachments/assets/4f3eb92e-82e1-4794-beba-968f773ca861)
 # Clickbait Detection System
 
 ## Project Overview
